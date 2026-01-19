@@ -55,3 +55,7 @@ Significa que el robot va a ver su estado y talvez su memoria si tiene y en base
 ## ¿Qué parámetro del modelo debería ajustarse si el robot nota que, tras limpiar un panel muy sucio con poca agua, el panel sigue sucio?
 La cantidad de agua que usa segun el nivel de suciedad que detecta en el estado, aumentar esa relacion de cantidad de agua x nivel de suciedad es el que abria que ajustar si el modelo no cumple con lo esperado.
 
+
+# Link
+[Repo](https://github.com/Jonialen/hdt1-ia)
+
